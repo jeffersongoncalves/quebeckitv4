@@ -48,7 +48,7 @@
         "jeffersongoncalves/laravel-quebec-requests": "^1.0",
         "jeffersongoncalves/laravel-quebec-retention": "^1.0",
         "jeffersongoncalves/laravel-quebec-vendors": "^1.0",
-        "jeffersongoncalves/laravel-security-headers": "2.1",
+        "jeffersongoncalves/laravel-security-headers": "^2.1",
         "joaopaulolndev/filament-edit-profile": "^2.0",
         "laravel/framework": "^13.0",
         "laravel/tinker": "^3.0",
